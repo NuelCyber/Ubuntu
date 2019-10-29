@@ -8,3 +8,5 @@ As mentioned previously, Ubuntu is one of a number of Linux distributions. The s
 A South African internet mogul (who made his fortune selling his company to VeriSign for around $500 million) decided it was time for a more user friendly Linux. He took the Debian distribution and worked to make it a more human friendly distribution which he called Ubuntu. He subsequently formed a company called Canonical Ltd to promote and provide support for Ubuntu Linux. In addition Shuttleworth has formed and funded (to the tune of $10 million) a foundation to guarantee the future of Ubuntu.
 
 The rest, as they say, is history. Ubuntu has since gone from strength to strength. Dell and other hardware vendors now ship computers pre-loaded with Ubuntu Linux and Ubuntu usually tops the chart at DistroWatch.com (a web site which tracks the popularity of the various Linux distributions). 
+
+https://ubuntu.com
