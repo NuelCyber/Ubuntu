@@ -1,3 +1,5 @@
+![GitHub Logo](/home/ambient01/Pictures/Ubuntu-logo.png)
+
 # Ubuntu
 For anyone who wants to learn and develop, including practicing Ubuntu or Open source skills
 
